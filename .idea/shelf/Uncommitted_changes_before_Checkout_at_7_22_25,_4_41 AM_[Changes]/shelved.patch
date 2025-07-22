@@ -1,0 +1,147 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"b6413231-5885-421f-bab8-72a4ac38f2c2\" name=\"Changes\" comment=\"\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 6\n}</component>\n  <component name=\"ProjectId\" id=\"30Cr038ZPcayMHHt2VbpYMMWSeI\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"ModuleVcsDetector.initialDetectionPerformed\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager\": \"true\",\n    \"RunOnceActivity.git.unshallow\": \"true\",\n    \"com.intellij.lang.ruby.rbs.tools.collection.workspace.sync.RbsCollectionUpdateProjectActivity#LAST_UPDATE_TIMESTAMP\": \"1753142228946\",\n    \"last_opened_file_path\": \"/home/abdelrahman-walid/Desktop/2025-git-session\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"RunManager\">\n    <configuration default=\"true\" type=\"CucumberRunConfigurationType\" factoryName=\"Cucumber\">\n      <predefined_log_file enabled=\"true\" id=\"RUBY_CUCUMBER\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"RUBY_ARGS\" VALUE=\"\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"WORK DIR\" VALUE=\"\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"SHOULD_USE_SDK\" VALUE=\"false\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"ALTERN_SDK_NAME\" VALUE=\"\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"myPassParentEnvs\" VALUE=\"true\" />\n      <EXTENSION ID=\"BundlerRunConfigurationExtension\" BUNDLE_MODE=\"AUTO\" bundleExecEnabled=\"true\" />\n      <EXTENSION ID=\"org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension\" SCRATCH_USE_RAILS_RUNNER=\"false\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_FILE_MASK\" VALUE=\"**/*.feature\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_TEST_TYPE\" VALUE=\"TEST_SCRIPT\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"TESTS_FOLDER_PATH\" VALUE=\"\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_SCRIPT_PATH\" VALUE=\"\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_SCRIPTS_PATHS\" VALUE=\"\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_TAGS_FILTER\" VALUE=\"\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_NAME_FILTER\" VALUE=\"\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"CUCUMBER_ARGS\" VALUE=\"--color -r features\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"RUNNER_VERSION\" VALUE=\"\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"FULL_BACKTRACE\" VALUE=\"false\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"VERBOSE_OPTION\" VALUE=\"true\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"DRB\" VALUE=\"false\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"ZEUS\" VALUE=\"false\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"SPRING\" VALUE=\"false\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"CUCUMBER_RUNNER_PATH\" VALUE=\"\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"USE_CUSTOM_RUNNER\" VALUE=\"false\" />\n      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME=\"SETTINGS_VERSION\" VALUE=\"2\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration default=\"true\" type=\"RSpecRunConfigurationType\" factoryName=\"RSpec\">\n      <predefined_log_file enabled=\"true\" id=\"RUBY_RSPEC\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"RUBY_ARGS\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"WORK DIR\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"SHOULD_USE_SDK\" VALUE=\"false\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"ALTERN_SDK_NAME\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"myPassParentEnvs\" VALUE=\"true\" />\n      <EXTENSION ID=\"BundlerRunConfigurationExtension\" BUNDLE_MODE=\"AUTO\" bundleExecEnabled=\"true\" />\n      <EXTENSION ID=\"org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension\" SCRATCH_USE_RAILS_RUNNER=\"false\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"TESTS_FOLDER_PATH\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_SCRIPT_PATH\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_SCRIPT_PATHS\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"SPEC_RUNNER_PATH\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_FILE_MASK\" VALUE=\"**/*_spec.rb\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"SPEC_EXAMPLE_NAME\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"USE_EXAMPLE_MATCHES\" VALUE=\"false\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"LINE_NUMBER_EXAMPLE_IDS\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_TEST_TYPE\" VALUE=\"TEST_SCRIPT\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"SPEC_ARGS\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"RUNNER_VERSION\" VALUE=\"\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"USE_CUSTOM_SPEC_RUNNER\" VALUE=\"false\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"DRB\" VALUE=\"false\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"ZEUS\" VALUE=\"false\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"SPRING\" VALUE=\"false\" />\n      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME=\"FULL_BACKTRACE\" VALUE=\"false\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration default=\"true\" type=\"RackRunConfigurationType\" factoryName=\"Rack\">\n      <RACK_CONFIG_SETTINGS_ID NAME=\"RUBY_ARGS\" VALUE=\"\" />\n      <RACK_CONFIG_SETTINGS_ID NAME=\"WORK DIR\" VALUE=\"$PROJECT_DIR$\" />\n      <RACK_CONFIG_SETTINGS_ID NAME=\"SHOULD_USE_SDK\" VALUE=\"false\" />\n      <RACK_CONFIG_SETTINGS_ID NAME=\"ALTERN_SDK_NAME\" VALUE=\"\" />\n      <RACK_CONFIG_SETTINGS_ID NAME=\"myPassParentEnvs\" VALUE=\"true\" />\n      <EXTENSION ID=\"BundlerRunConfigurationExtension\" BUNDLE_MODE=\"AUTO\" bundleExecEnabled=\"true\" />\n      <EXTENSION ID=\"org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension\" SCRATCH_USE_RAILS_RUNNER=\"false\" />\n      <RACK_CONFIG_SETTINGS_ID NAME=\"PORT\" VALUE=\"9292\" />\n      <RACK_CONFIG_SETTINGS_ID NAME=\"IP\" VALUE=\"127.0.0.1\" />\n      <RACK_CONFIG_SETTINGS_ID NAME=\"CONFIG_FILE\" VALUE=\"\" />\n      <RACK_CONFIG_SETTINGS_ID NAME=\"RACK_SERVER_TYPE\" VALUE=\"Default\" />\n      <RACK_CONFIG_SETTINGS_ID NAME=\"LAUNCH_JS\" VALUE=\"false\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration default=\"true\" type=\"RakeRunConfigurationType\" factoryName=\"Rake\">\n      <predefined_log_file enabled=\"true\" id=\"RUBY_RAKE\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RUBY_ARGS\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"WORK DIR\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"SHOULD_USE_SDK\" VALUE=\"false\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"ALTERN_SDK_NAME\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"myPassParentEnvs\" VALUE=\"true\" />\n      <EXTENSION ID=\"BundlerRunConfigurationExtension\" BUNDLE_MODE=\"AUTO\" bundleExecEnabled=\"true\" />\n      <EXTENSION ID=\"org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension\" SCRATCH_USE_RAILS_RUNNER=\"false\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_NAME\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_ARGS\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_ATTACHED_TEST_FRAMEWORKS\" VALUE=\"\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_OPTION_TRACE\" VALUE=\"false\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_OPTION_DRYRUN\" VALUE=\"false\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_OPTION_PREREQS\" VALUE=\"false\" />\n      <RAKE_RUN_CONFIG_SETTINGS_ID NAME=\"RAKE_TASK_OPTION_TESTOPTS\" VALUE=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration default=\"true\" type=\"RubyRunConfigurationType\" factoryName=\"Ruby\">\n      <RUBY_RUN_CONFIG NAME=\"RUBY_ARGS\" VALUE=\"\" />\n      <RUBY_RUN_CONFIG NAME=\"WORK DIR\" VALUE=\"\" />\n      <RUBY_RUN_CONFIG NAME=\"SHOULD_USE_SDK\" VALUE=\"false\" />\n      <RUBY_RUN_CONFIG NAME=\"ALTERN_SDK_NAME\" VALUE=\"\" />\n      <RUBY_RUN_CONFIG NAME=\"myPassParentEnvs\" VALUE=\"true\" />\n      <EXTENSION ID=\"BundlerRunConfigurationExtension\" BUNDLE_MODE=\"AUTO\" bundleExecEnabled=\"true\" />\n      <EXTENSION ID=\"org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension\" SCRATCH_USE_RAILS_RUNNER=\"false\" />\n      <RUBY_RUN_CONFIG NAME=\"SCRIPT_PATH\" VALUE=\"\" />\n      <RUBY_RUN_CONFIG NAME=\"SCRIPT_ARGS\" VALUE=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration default=\"true\" type=\"TestUnitRunConfigurationType\" factoryName=\"Test::Unit/Shoulda/Minitest\">\n      <predefined_log_file enabled=\"true\" id=\"RUBY_TESTUNIT\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"RUBY_ARGS\" VALUE=\"\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"WORK DIR\" VALUE=\"\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"SHOULD_USE_SDK\" VALUE=\"false\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"ALTERN_SDK_NAME\" VALUE=\"\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"myPassParentEnvs\" VALUE=\"true\" />\n      <EXTENSION ID=\"BundlerRunConfigurationExtension\" BUNDLE_MODE=\"AUTO\" bundleExecEnabled=\"true\" />\n      <EXTENSION ID=\"org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension\" SCRATCH_USE_RAILS_RUNNER=\"false\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"TESTS_FOLDER_PATH\" VALUE=\"\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_SCRIPT_PATH\" VALUE=\"\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_SCRIPTS_PATHS\" VALUE=\"\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_FILE_MASK\" VALUE=\"\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_METHOD_NAME\" VALUE=\"\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"TEST_TEST_TYPE\" VALUE=\"CUSTOM_SET_OF_FILES\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"DRB\" VALUE=\"false\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"ZEUS\" VALUE=\"false\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"SPRING\" VALUE=\"false\" />\n      <RTEST_RUN_CONFIG_SETTINGS_ID NAME=\"RUNNER_OPTIONS\" VALUE=\"\" />\n      <method v=\"2\" />\n    </configuration>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-RM-251.26927.47\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpringUtil\" SPRING_PRE_LOADER_OPTION=\"true\" RAKE_SPRING_PRE_LOADER_OPTION=\"true\" RAILS_SPRING_PRE_LOADER_OPTION=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"b6413231-5885-421f-bab8-72a4ac38f2c2\" name=\"Changes\" comment=\"\" />\n      <created>1753142168942</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1753142168942</updated>\n      <workItem from=\"1753142169965\" duration=\"338000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 9a7f59f74b332f8c825e411ef77198bb8dfeeeb2)
++++ b/.idea/workspace.xml	(date 1753148005562)
+@@ -21,123 +21,23 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "ModuleVcsDetector.initialDetectionPerformed": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+-    "RunOnceActivity.git.unshallow": "true",
+-    "com.intellij.lang.ruby.rbs.tools.collection.workspace.sync.RbsCollectionUpdateProjectActivity#LAST_UPDATE_TIMESTAMP": "1753142228946",
+-    "last_opened_file_path": "/home/abdelrahman-walid/Desktop/2025-git-session",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
++    &quot;com.intellij.lang.ruby.rbs.tools.collection.workspace.sync.RbsCollectionUpdateProjectActivity#LAST_UPDATE_TIMESTAMP&quot;: &quot;1753142228946&quot;,
++    &quot;last_opened_file_path&quot;: &quot;/home/abdelrahman-walid/Desktop/2025-git-session&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RunManager">
+-    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
+-      <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />
+-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+-      <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
+-      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPTS_PATHS" VALUE="" />
+-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="true" />
+-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+-      <method v="2" />
+-    </configuration>
+-    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+-      <predefined_log_file enabled="true" id="RUBY_RSPEC" />
+-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+-      <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
+-      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATHS" VALUE="" />
+-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_EXAMPLE_MATCHES" VALUE="false" />
+-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="LINE_NUMBER_EXAMPLE_IDS" VALUE="" />
+-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+-      <method v="2" />
+-    </configuration>
+-    <configuration default="true" type="RackRunConfigurationType" factoryName="Rack">
+-      <RACK_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+-      <RACK_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+-      <RACK_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+-      <RACK_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+-      <RACK_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+-      <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
+-      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+-      <RACK_CONFIG_SETTINGS_ID NAME="PORT" VALUE="9292" />
+-      <RACK_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
+-      <RACK_CONFIG_SETTINGS_ID NAME="CONFIG_FILE" VALUE="" />
+-      <RACK_CONFIG_SETTINGS_ID NAME="RACK_SERVER_TYPE" VALUE="Default" />
+-      <RACK_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
+-      <method v="2" />
+-    </configuration>
+-    <configuration default="true" type="RakeRunConfigurationType" factoryName="Rake">
+-      <predefined_log_file enabled="true" id="RUBY_RAKE" />
+-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+-      <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
+-      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_NAME" VALUE="" />
+-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ARGS" VALUE="" />
+-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_ATTACHED_TEST_FRAMEWORKS" VALUE="" />
+-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TRACE" VALUE="false" />
+-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_DRYRUN" VALUE="false" />
+-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_PREREQS" VALUE="false" />
+-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RAKE_TASK_OPTION_TESTOPTS" VALUE="" />
+-      <method v="2" />
+-    </configuration>
+-    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+-      <EXTENSION ID="BundlerRunConfigurationExtension" BUNDLE_MODE="AUTO" bundleExecEnabled="true" />
+-      <EXTENSION ID="org.jetbrains.plugins.ruby.rails.run.RailsRunConfigurationExtension" SCRATCH_USE_RAILS_RUNNER="false" />
+-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+-      <method v="2" />
+-    </configuration>
+     <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+       <predefined_log_file enabled="true" id="RUBY_TESTUNIT" />
+       <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
